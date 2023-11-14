@@ -1,0 +1,38 @@
+[
+    {
+        "judul": "Tutorial React JS",
+        "date": "2023-11-04",
+        "tags": [
+            "Programming",
+            "React"
+        ],
+        "body": "lorem ipsum dolor sit amet"
+    },
+    {
+        "judul": "Tutorial React Native",
+        "date": "2023-11-04",
+        "tags": [
+            "Programming",
+            "React Native"
+        ],
+        "body": "lorem ipsum dolor sit amet"
+    },
+    {
+        "judul": "Tutorial VUE JS",
+        "date": "2023-11-04",
+        "tags": [
+            "Programming",
+            "VUE"
+        ],
+        "body": "lorem ipsum dolor sit amet"
+    },
+    {
+        "judul": "Tutorial NEXT JS",
+        "date": "2023-11-04",
+        "tags": [
+            "Programming",
+            "NEXT JS"
+        ],
+        "body": "lorem ipsum dolor sit amet"
+    }
+]
